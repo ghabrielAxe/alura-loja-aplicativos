@@ -1,1 +1,1 @@
-# loja-aplicativos
+Loja de Aplicativos utilizando Grid Layout.
